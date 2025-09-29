@@ -43,6 +43,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://purefocus.example.com/fr/suppression-compte.html</loc>
+    <lastmod>2025-09-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://purefocus.example.com/en/</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>monthly</changefreq>
@@ -80,6 +86,12 @@
   </url>
   <url>
     <loc>https://purefocus.example.com/en/company.html</loc>
+    <lastmod>2025-09-29</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://purefocus.example.com/en/account-deletion.html</loc>
     <lastmod>2025-09-29</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
