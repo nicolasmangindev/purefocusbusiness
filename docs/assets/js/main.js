@@ -130,7 +130,7 @@ function initForms() {
   forms.forEach(form => {
     form.addEventListener('submit', (e) => {
       e.preventDefault();
-      alert('Ce formulaire est actuellement désactivé. Veuillez nous contacter par email : support.purefocus@gmail.com');
+      alert('Ce formulaire est actuellement désactivé. Veuillez nous contacter par email : purfocus.contact@gmail.com');
     });
   });
 }

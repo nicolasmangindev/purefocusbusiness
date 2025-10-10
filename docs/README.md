@@ -144,7 +144,7 @@ Les pages EN contiennent des placeholders `{{TO BE TRANSLATED}}`. Remplacez-les 
 
 ## Support
 
-Pour toute question : [support.purefocus@gmail.com](mailto:support.purefocus@gmail.com)
+Pour toute question : [purfocus.contact@gmail.com](mailto:purfocus.contact@gmail.com)
 
 ## Licence
 
